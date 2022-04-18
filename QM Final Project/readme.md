@@ -1,0 +1,2 @@
+A Jupyter Notebook I and a partner used for our Quantum Mechanics final project.
+The problem prompt is prompt.png and comes from the Introductions to Quantum Mechanics (2018) textbook by Griffiths, Schroeter
