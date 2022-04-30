@@ -13,6 +13,9 @@ def ThickLens(R1, R2, n1, n2, d):
 def ThinLens(f):
     return Matrix([[1, 0], [(-1/f), 1]])
 
+def ThickLensDistance(d, n):
+    return Matrix([[1, d/n], [0, 1]])
+    
 from sympy.abc import theta
 from sympy import sin
 def Sylvester(A, B, C, D, N):
